@@ -93,7 +93,7 @@ function tienenMismaLongitud(str1, str2) {
   // Tu código:
   let str1 = 'Marine';
   let str2 = 'Stratosphere';
-  if (str1 === str2){
+  if (str1.length === str2.length){
     return true;
   }else{
     return false;
