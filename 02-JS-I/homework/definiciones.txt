@@ -1,0 +1,7 @@
+1. 
+Variables: Espacios de memoria que destina la pc para guardar un valor especifico, son como cajas donde almacenamos valores. En el caso de ser variables, estos pueden cambiar su valor cuando se le reasigna uno nuevo. Para que esto no suceda existen las Constantes, las cuales a diferencia de las variables, las constantes una vez que se le asigna un valor no puede ser cambiado.
+Strings: Cadenas de caracteres, incluyen simbolos, letras y numeros. Se escriben entre ''. 
+Funciones: Porciones de codigo reutilizable, se utilizan para no escribir muchas veces lo mismo, se declara una funcion y luego puede ser invocada cuantas veces queramos. Las funciones pueden tener argumentos, y sirven para declarar una variable dentro de la misma, estos arguentos toman un valor cuando se invoca la funcion.
+Las funciones que no devuelven "nada", en realidad por defecto devuelven un dato undefined, es decir no definido. Existen funciones las cuales podemos decirles que retornen algo, por ejemplo un resultado. Lo que se escriba despues del return, no se va a ejecutar.
+Declaraciones if: El if, es un condicional que evalua una situacion y permite tomar diferentes caminos si se cumple o no la condicion. Es como un si pasa esto, sucede aquello y si no pasa sucede otra cosa. 
+Valores Booleanos: Los valores booleanos arrojan dos resultados unicamente, True (verdadero) o False (falso). Sirven para evaluar condiciones, es decir, si es cierto o no dicho enunciado.
